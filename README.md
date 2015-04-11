@@ -1,2 +1,2 @@
 # google
-test
+tests
